@@ -2,3 +2,7 @@
 - [Triangle Pattern](/Pattern/triangle.cpp)
 - [Numerical Triangle Pattern](/Pattern/numericaltriangle.cpp)
 - [Numerical Triangle Pattern 2](/Pattern/numericaltriangle2.cpp)
+- [Inverse Triangle](/Pattern/inversetriangle.cpp)
+- [Inverse Numerical Triangle](/Pattern/inversenumericaltriangle.cpp)
+- [Pyramid](/Pattern/pyramid.cpp)
+- [Inverse Pyramid](/Pattern/inversepyramid.cpp)
