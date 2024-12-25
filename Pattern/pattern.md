@@ -1,3 +1,1 @@
-<ul>
-[Square Pattern](/Pattern/square.cpp)
-</ul>
+- [Square Pattern](/Pattern/square.cpp)
