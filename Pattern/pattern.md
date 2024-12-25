@@ -1,1 +1,2 @@
 - [Square Pattern](/Pattern/square.cpp)
+- [Triangle Pattern](/Pattern/triangle.cpp)
