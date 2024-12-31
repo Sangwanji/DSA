@@ -2,11 +2,11 @@
 
 ## Container
 ### [Vector](/STL/vector)
-- [ Declaration](/Stl/vector/declaration.cpp)
-- [ Iteration](/Stl/vector/iterator.cpp)
-- [ Insertion](/Stl/vector/insert.cpp)
-- [ Deletion](/Stl/vector/deletion.cpp)
-- [ Some Extra Function](/Stl/vector/extrafn.cpp)
+- [ Declaration](/STL/vector/declaration.cpp)
+- [ Iteration](/STL/vector/iterator.cpp)
+- [ Insertion](/STL/vector/insert.cpp)
+- [ Deletion](/STL/vector/deletion.cpp)
+- [ Some Extra Function](/STL/vector/extrafn.cpp)
 
 
 ### [Pair](/STL/pair.cpp)
