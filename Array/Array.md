@@ -17,5 +17,16 @@
 ### [Find Number appear Once](/Array/Easy/appearonce.cpp)
 ### [Subarray](/Array/Easy/subarray.cpp)
 
-
-
+## Medium
+### [Find Pair with Given Sum](/Array/Medium/Twosum.cpp)
+### [Sort an array of 0s, 1s and 2s](/Array/Medium/Sort012.cpp)
+### [Find Majority Element whoose frequency is more than n/2](/Array/Medium/majorityelement.cpp)
+### [Find maximum subarray sum](/Array/Medium/maxsubarraysum.cpp)
+### [stock buy and sell](/Array/Medium/stockbuyandsell.cpp)
+### [Rearrang Element by Sign](/Array/Medium/rearrangebysign.cpp)
+### [Leader in array (Element greater than all element in right side)](/Array/Medium/leaderinarray.cpp)
+### [Set Matrix Zeroes](/Array/Medium/setmatrixzeroes.cpp)
+### [Rotate Matrix by 90 degree](/Array/Medium/rotatematrix90.cpp)
+### [Print Matrix in spiral order](/Array/Medium/spiralorder.cpp)
+### [Longest consecutie subsequence](/Array/Medium/longestconsecutiveseq.cpp)
+### [Count Subarray with given sum](/Array/Medium/countsubarray.cpp)
