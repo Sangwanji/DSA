@@ -8,3 +8,4 @@
 - [Hashing](/Hashing/Hashing.md)
 - [Recursion](/Recursion/Recursion.md)
 - [Sorting](/Sorting/Sorting.md)
+- [Array](/Array/Array.md)
